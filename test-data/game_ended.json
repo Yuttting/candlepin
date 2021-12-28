@@ -1,0 +1,61 @@
+{
+  "id": "f8c70982-1f87-4957-aa31-508b63a263f6",
+  "lane": 1,
+  "started": false,
+  "finished": true,
+  "startTime": 1638214481018,
+  "finishedTime": 1638217233031,
+  "players": ["Johnny", "Nicky", "Bobby"],
+  "frames": [
+    { "frame": 1, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 8 },
+      { "name": "Nicky", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 15, "score": 23 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 9 }
+    ] },
+    { "frame": 2, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 7, "score": 30 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 23 },
+      { "name": "Bobby", "ball": 3, "mark": "MARK_STRIKE", "started": false, "completed": true, "downed": 18, "score": 33 }
+    ] },
+    { "frame": 3, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 4, "score": 19 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 33 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 42 }
+    ] },
+    { "frame": 4, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": "MARK_STRIKE", "started": false, "completed": true, "downed": 16, "score": 35 },
+      { "name": "Nicky", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 17, "score": 50 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 6, "score": 48 }
+    ] },
+    { "frame": 5, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 43 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 60 },
+      { "name": "Bobby", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 15, "score": 63 }
+    ] },
+    { "frame": 6, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 53 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 6, "score": 66 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 71 }
+    ] },
+    { "frame": 7, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 62 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 74 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 81 }
+    ] },
+    { "frame": 8, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 14, "score": 76 },
+      { "name": "Nicky", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 12, "score": 86 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 6, "score": 87 }
+    ] },
+    { "frame": 9, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 86 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 95 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 96 }
+    ] },
+    { "frame": 10, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 7, "score": 95 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 103 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 5, "score": 101 }
+    ] }
+  ]
+}

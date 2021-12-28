@@ -1,0 +1,60 @@
+{
+  "id": "f8c70982-1f87-4957-aa31-508b63a263f6",
+  "lane": 1,
+  "started": false,
+  "finished": false,
+  "startTime": 1638214481018,
+  "players": ["Johnny", "Nicky", "Bobby"],
+  "frames": [
+    { "frame": 1, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 8 },
+      { "name": "Nicky", "ball": 3, "mark": "MARK_SPARE", "started": false, "completed": true, "downed": 10, "score": 15 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 9 }
+    ] },
+    { "frame": 2, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 7, "score": 15 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 8, "score": 23 },
+      { "name": "Bobby", "ball": 3, "mark": "MARK_STRIKE", "started": false, "completed": true, "downed": 10, "score": 17 }
+    ] },
+    { "frame": 3, "scores": [
+      { "name": "Johnny", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 4, "score": 19 },
+      { "name": "Nicky", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 10, "score": 33 },
+      { "name": "Bobby", "ball": 3, "mark": null, "started": false, "completed": true, "downed": 9, "score": 26 }
+    ] },
+    { "frame": 4, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 5, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 6, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 7, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 8, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 9, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] },
+    { "frame": 10, "scores": [
+      { "name": "Johnny", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Nicky", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 },
+      { "name": "Bobby", "ball": 1, "mark": null, "started": false, "completed": false, "downed": 0, "score": 0 }
+    ] }
+  ]
+}
