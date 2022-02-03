@@ -3,11 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The requirements and description for this exercise were added to the `docs` directory for convenience.
 
 Overview:
-- Update the LICENSE to either be open source OR to be copyrighted to you. This exercise is solely for us to review your code and skills.
-- Create a new repo with this code as the base. There should be two branches: `main` and `devel`.
-- Create a branch from `devel` and create the application there.
-- Use the test data in `test-data` to test and develop.
-- Once done, create a pull request, assign Joseph and Scott to it, and notify us of the code.
+
+* Update the LICENSE to either be open source OR to be copyrighted to you. This exercise is solely for us to review your code and skills.
+* Create a new repo with this code as the base. There should be two branches: `main` and `devel`.
+* Create a branch from `devel` and create the application there.
+* Use the test data in `test-data` to test and develop.
+* Once done, create a pull request, assign Joseph and Scott to it, and notify us of the code.
 
 ## Available Scripts
 
