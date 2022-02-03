@@ -26,17 +26,3 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-## Scoring
-The assessment will be scored out of 100 points. Points are lost for the following reasons:
-
-1. not following instructions
-2. implemented features that do not work correctly (e.g. routing issues or unfinished buttons - UNLESS issues are called out either in e-mail, code comments, or the README)
-3. code style: variable naming, usage of common programming patterns, unused variables, usage of classes and modules
-4. complexity of code: is the logic easy to follow? any unused variables? does usage of OOP make the app easier to understand or more difficult?
-5. broken or skipped unit tests - if any are written. Points are not lost if no tests are written, but bonus points are rewarded for working and useful tests
-6. breaking React conventions without explanation in code comments, README, or other documentation
-7. broken or not working backend / server code, if any is written. Points are not lost for not writing backend code, but bonus points are rewarded for working server or test server code
-8. breaking normal CSS conventions
-9. breaking normal JavaScript conventions
-10. breaking normal HTML conventions
