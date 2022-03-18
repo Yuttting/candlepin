@@ -15,6 +15,10 @@ Overview:
 
 * NPM v12+
 
+## Dev Tool
+
+This project comes with a "dev tool" built in for simulating players / gameplay. 
+
 ## Available Scripts
 
 In the project directory, you can run:

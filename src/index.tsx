@@ -5,12 +5,20 @@ import 'bootstrap/dist/css/bootstrap-reboot.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import DevTool from './DevTool';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
+);
+
+ReactDOM.render(
+  <React.StrictMode>
+    <DevTool />
+  </React.StrictMode>,
+  document.getElementById('dev_tools_container')
 );
 
 // If you want to start measuring performance in your app, pass a function
