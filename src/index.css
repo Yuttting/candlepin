@@ -16,3 +16,16 @@ summary h6 {
   margin-left: 0;
   display: inline-block;
 }
+
+/* plus button */
+.plus {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  background: linear-gradient(#fff 0 0), linear-gradient(#fff 0 0), #000;
+  background-position: center;
+  background-size: 50% 2px, 2px 50%;
+  background-repeat: no-repeat;
+  margin-right: 0.5rem;
+  margin-top: 0.15rem;
+}

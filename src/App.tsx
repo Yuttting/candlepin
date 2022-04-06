@@ -2,8 +2,11 @@ import { Component, ReactElement } from 'react';
 import { ApiClient } from './ApiClient';
 import './App.css';
 import { FakeServer } from './FakeServer';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import AddPlayers from './AddPlayers';
+import StartBolwing from './StartBolwing';
 
-export interface AppState { }
+export interface AppState {}
 
 export class App extends Component<{}, AppState> {
   #apiClient?: ApiClient;
@@ -18,9 +21,12 @@ export class App extends Component<{}, AppState> {
 
   render(): ReactElement {
     return (
-      <div>
-        <h1>Candlepin!</h1>
-      </div>
+      <Router>
+        <Routes>
+          <Route path="/" element={<AddPlayers />} />
+          <Route path="/start" element={<StartBolwing />} />
+        </Routes>
+      </Router>
     );
   }
 }
