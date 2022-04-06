@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import AddPlayers from './AddPlayers';
 import StartBolwing from './StartBolwing';
 
-export interface AppState {}
+export interface AppState { }
 
 export class App extends Component<{}, AppState> {
   #apiClient?: ApiClient;
